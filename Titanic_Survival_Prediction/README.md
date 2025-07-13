@@ -54,6 +54,15 @@ A sleek, interactive Streamlit UI has been built with:
 - A Titanic-themed background
 - Stylish form inputs
 - Emoji-based survival results (✅ or ❌)
+  
+Here’s a screenshot of the app predicting Titanic survival:
+
+<p align="center">
+  <img src="images/output1.png" width="700">
+</p>
+<p align="center">
+  <img src="images/output2.png" width="700">
+</p>
 
 ###  Prediction Output
 - ✅ **Green success box** if the passenger would survive
